@@ -1,9 +1,9 @@
 <script setup>
-import SachView from './views/SachView.vue'
+import SachPage from './pages/SachPage.vue'
 </script>
 
 <template>
-  <SachView />
+  <SachPage />
 </template>
 
 <style scoped></style>
